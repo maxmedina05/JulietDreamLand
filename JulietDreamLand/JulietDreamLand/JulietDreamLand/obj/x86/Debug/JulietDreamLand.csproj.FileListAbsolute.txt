@@ -1,0 +1,7 @@
+C:\Users\Max\Documents\GIT-REPOS\Game-Projects\JulietDreamLand\JulietDreamLand\JulietDreamLand\JulietDreamLand\obj\x86\Debug\JulietDreamLand.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\GIT-REPOS\Game-Projects\JulietDreamLand\JulietDreamLand\JulietDreamLand\JulietDreamLand\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Max\Documents\GIT-REPOS\Game-Projects\JulietDreamLand\JulietDreamLand\JulietDreamLand\JulietDreamLand\bin\x86\Debug\Content\Sprites\Characters\01.xnb
+C:\Users\Max\Documents\GIT-REPOS\Game-Projects\JulietDreamLand\JulietDreamLand\JulietDreamLand\JulietDreamLand\bin\x86\Debug\JulietDreamLand.exe
+C:\Users\Max\Documents\GIT-REPOS\Game-Projects\JulietDreamLand\JulietDreamLand\JulietDreamLand\JulietDreamLand\bin\x86\Debug\JulietDreamLand.pdb
+C:\Users\Max\Documents\GIT-REPOS\Game-Projects\JulietDreamLand\JulietDreamLand\JulietDreamLand\JulietDreamLand\obj\x86\Debug\JulietDreamLand.exe
+C:\Users\Max\Documents\GIT-REPOS\Game-Projects\JulietDreamLand\JulietDreamLand\JulietDreamLand\JulietDreamLand\obj\x86\Debug\JulietDreamLand.pdb

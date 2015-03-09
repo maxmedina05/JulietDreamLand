@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JulietDreamLand", "JulietDreamLand\JulietDreamLand\JulietDreamLand.csproj", "{F487812A-B649-4B31-A0DD-9B8DCA75202A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "JulietDreamLandContent", "JulietDreamLand\JulietDreamLandContent\JulietDreamLandContent.contentproj", "{96ACC1DE-42CA-417E-9B5B-E9D4B836C7C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F487812A-B649-4B31-A0DD-9B8DCA75202A}.Debug|x86.ActiveCfg = Debug|x86
+		{F487812A-B649-4B31-A0DD-9B8DCA75202A}.Debug|x86.Build.0 = Debug|x86
+		{F487812A-B649-4B31-A0DD-9B8DCA75202A}.Release|x86.ActiveCfg = Release|x86
+		{F487812A-B649-4B31-A0DD-9B8DCA75202A}.Release|x86.Build.0 = Release|x86
+		{96ACC1DE-42CA-417E-9B5B-E9D4B836C7C6}.Debug|x86.ActiveCfg = Debug|x86
+		{96ACC1DE-42CA-417E-9B5B-E9D4B836C7C6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
